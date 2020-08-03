@@ -1,2 +1,2 @@
-{"appInfos":[{"gameName":"女人画法_Draw Woman","storeLink":"https://apps.apple.com/us/app/id1146741936","imageUrls":["https://atansoft.github.io/promotes/icons/drawfemale.png"]},
+{"appInfos":[{"gameName":"女性画法_Draw Woman","storeLink":"https://apps.apple.com/us/app/id1146741936","imageUrls":["https://atansoft.github.io/promotes/icons/drawfemale.png"]},
 {"gameName":"涂色游戏_Color Book","storeLink":"https://apps.apple.com/us/app/id1152794841","imageUrls":["https://atansoft.github.io/promotes/icons/youthtrap.png"]}]}
