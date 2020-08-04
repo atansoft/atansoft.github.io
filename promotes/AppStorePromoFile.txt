@@ -1,1 +1,1 @@
-{"gameName":"My Tenant","storeLink":"itms-apps://itunes.apple.com/cn/app/id1516154589","imageUrls":["https://atansoft.github.io/promotes/dareToDie.png"]}
+{"gameName":"My Tenant","storeLink":"itms-apps://itunes.apple.com/cn/app/id1516154589","imageUrls":["https://atansoft.github.io/promotes/big/dareToDie.png"]}
