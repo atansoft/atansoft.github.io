@@ -1,1 +1,1 @@
-{"gameName":"Stray Dog","storeLink":"https://apps.apple.com/us/app/id1106840053","imageUrls":["https://atansoft.github.io/promotes/big/HMSketch.png"]}
+{"gameName":"Stray Dog","storeLink":"https://apps.apple.com/us/app/id1106840053","imageUrls":["https://atansoft.top/promotes/big/HMSketch.png"]}
